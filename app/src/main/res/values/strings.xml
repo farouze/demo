@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="forward">forward</string>
+    <string name="pause">pause</string>
+    <string name="back">back</string>
+    <string name="rewind">rewind</string>
+</resources>
