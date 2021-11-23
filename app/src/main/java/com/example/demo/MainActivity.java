@@ -42,7 +42,7 @@ public class MainActivity extends Activity {
 
         tx1 = (TextView)findViewById(R.id.textView2);
         tx2 = (TextView)findViewById(R.id.textView3);
-        tx3 = (TextView)findViewById(R.id.textView4);
+
 
 
 
